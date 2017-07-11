@@ -1,4 +1,4 @@
 Prototype Website
 =================
 
-Built by Tim.
+The Best Prototype Website Ever.
